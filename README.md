@@ -8,13 +8,17 @@ https://github.com/JeffersonLCXaxa/Banking_System_Creating/blob/main/LICENSE
 
 ## How to run this project on your computer
 
-1. Abra, em seu navegador web, o seguinte link (Interpretador Online de Python):
+1. Abra, em seu navegador web, o seguinte link da página do Trinket (Interpretador Online de Python):
 
     https://trinket.io/library/trinkets/create?lang=python3
 
-3. Copie todo o algorítmo do link:
+2. Copie todo o algoritmo do link:
+
     https://github.com/JeffersonLCXaxa/Banking_System_Creating/blob/main/Desafio_Sistema_Bancario_Version_Final.py
 
+3. Cole o algoritmo na aba da esquerda e click em RUN.
+
+4. O algoritmo será executado na aba da direita para interação do usuário.
 
 ## About the project
 
