@@ -49,9 +49,19 @@ Additionally, the bank keeps detailed records of financial transactions, providi
 To demonstrate my problem-solving ability through the Python language and application development using programming skills with the Visual Studio Code IDE.
 
 ## Technologies Used:
-- Visual Studio Code v1.79
-- Python v3.10.9
-- pandas (Python Library)
+
+<table>
+    <tr>
+        <td>Visual Studio Code</td>
+        <td>Python</td>
+        <td>Python Library</td>
+    </tr>
+    <tr>
+        <td>v1.79</td>
+        <td>v3.10.9</td>
+        <td> pandas</td>
+    </tr>
+</table>
 
 ## Business Problem
 
