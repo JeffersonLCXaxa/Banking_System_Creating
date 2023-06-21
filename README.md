@@ -34,7 +34,8 @@ In this project, I have created a simple banking system capable of:
 Some rules have been implemented in the algorithm, for example, each user has a limit of:
 
 - Maximum of 3 withdrawals per day;
-- Withdrawal limit of $500.00.
+- Withdrawal limit of $500.00;
+- The agency will always be 0001.
 
 The entire system provides a personalized experience for each user from registration to record-keeping in the transaction history.
 
